@@ -237,6 +237,9 @@ while True:
         ball.sety(-340)
         ball.dy *= -1  
         
+Soure code from Christian Thompson from freecodecamp.org        
+        
+        
 https://youtu.be/51WmDb_Xuoc
 
 
